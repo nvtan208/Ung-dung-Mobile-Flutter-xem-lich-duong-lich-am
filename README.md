@@ -41,9 +41,9 @@ flutter run
 ## Cấu trúc dự án 📂
 ```
 /lib          -> Chứa mã nguồn chính của ứng dụng.
-/screens      -> Các màn hình chính (ví dụ: lịch tháng, lịch ngày).
-/utils        -> Các hàm tiện ích (ví dụ: chuyển đổi ngày).
-/assets       -> Tài nguyên tĩnh như hình ảnh, font chữ (nếu có).
+  /screens      -> Các màn hình chính (ví dụ: lịch tháng, lịch ngày).
+  /utils        -> Các hàm tiện ích (ví dụ: chuyển đổi ngày).
+  /assets       -> Tài nguyên tĩnh như hình ảnh, font chữ (nếu có).
 pubspec.yaml  -> Quản lý dependencies và cấu hình ứng dụng.
 ```
 
