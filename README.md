@@ -51,22 +51,6 @@ pubspec.yaml  -> Quản lý dependencies và cấu hình ứng dụng.
 - **Flutter**: Framework chính để xây dựng giao diện và logic ứng dụng.
 - **Dart**: Ngôn ngữ lập trình chính.
 
-## Đóng góp 🤝
-Mọi đóng góp đều được hoan nghênh! Vui lòng làm theo các bước sau:
-1. Fork dự án.
-2. Tạo một branch mới:
-   ```bash
-   git checkout -b feature/your-feature
-   ```
-3. Commit thay đổi của bạn:
-   ```bash
-   git commit -m "Mô tả thay đổi"
-   ```
-4. Push lên branch của bạn:
-   ```bash
-   git push origin feature/your-feature
-   ```
-5. Tạo Pull Request.
 
 ## Tác giả 👨‍💻
 **nvtan208** - Nhà phát triển chính.
